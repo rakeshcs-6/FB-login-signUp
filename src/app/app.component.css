@@ -1,0 +1,56 @@
+.header{
+    background-color: #4267B2;
+    color:black;
+    padding-left: 60%;
+    /* text-align: center; */
+    padding-top:20px;
+}
+.login{
+    background-color:  #415886 ;
+    color:white;
+    margin-top: 9px;
+    border: none
+}
+.lname{
+    padding-top:10px
+}
+.email_input{
+    padding-left:10px
+}
+.body{
+    padding-left: 60%;
+}
+.email{
+    color:white;
+    font-weight:none
+}
+.password{
+    color:white
+}
+.wrong{
+    color:red;
+    padding-left: 60%;
+}
+.right{
+    color :green;
+    padding-left: 60%;
+}
+.hide{
+    visibility: hidden;
+}
+.body_main{
+    background-color:#e1e5ecfb ;
+}
+.birthDay{
+    padding-top: 166px;
+}
+.field{
+    margin-right: 140px;
+}
+.forgotten_account{
+    margin-left: 214px;
+    color:white
+}
+a{
+    text-decoration: none;
+}

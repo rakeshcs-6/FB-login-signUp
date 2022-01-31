@@ -1,0 +1,8 @@
+mat-spinner{
+    position: relative;
+    margin-left: 50%;
+    margin-right: 50%;}
+
+    .mat-spinner-color::ng-deep circle{
+        stroke: blue !important;
+        }
